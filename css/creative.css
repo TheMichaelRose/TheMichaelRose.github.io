@@ -166,6 +166,16 @@ header {
   text-align: center;
   color: white;
 }
+.project-header {
+  background-image: none;
+  min-height: 0px;
+  background: #222222;
+}
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+width: 100%; /* use this, or not */
+margin: auto;
+}
 header .header-content {
   position: relative;
   text-align: center;
@@ -429,6 +439,6 @@ body {
   color: #FFFFFF;
   text-align: center;
   background: #222222;
-  padding-top: 20px;
-  padding-bottom: 10px;
+  padding-top: 35px;
+  padding-bottom: 15px;
 }
