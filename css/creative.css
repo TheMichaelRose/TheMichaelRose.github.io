@@ -52,6 +52,12 @@ p {
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
+.info {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+
+}
 section {
   padding: 100px 0;
 }
@@ -413,4 +419,11 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #222222;
+}
+.divider {
+  color: #FFFFFF;
+  text-align: center;
+  background: #222222;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
