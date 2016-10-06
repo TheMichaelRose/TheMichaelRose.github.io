@@ -66,6 +66,7 @@ aside {
 }
 .no-padding {
   padding: 0;
+  background: #222222;
 }
 .navbar-default {
   background-color: white;
@@ -274,6 +275,10 @@ header .header-content .header-content-inner p {
 }
 .portfolio-box:focus {
   outline: none;
+}
+.porfolio-info {
+  background: #222222;
+  text-align: center;
 }
 @media (min-width: 768px) {
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
