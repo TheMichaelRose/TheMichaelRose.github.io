@@ -162,7 +162,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/portfolio/fullsize/dungeonCrawler.jpg');
   text-align: center;
   color: white;
 }
@@ -441,4 +441,9 @@ body {
   background: #222222;
   padding-top: 35px;
   padding-bottom: 15px;
+}
+footer {
+  background: #222222;
+  text-align: center;
+  padding: 20px;
 }
